@@ -6,11 +6,14 @@
   - The slope of the linear model cannot be considered zero. The p-value (5.35e-11) indicates that more than random chance impacts the overall mpg of the vehicles. In terms of accepting or rejecting the null hypothesis, we would reject the null in this instance when looking at mpg and other measured variables. 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   - The r-value listed in the summary table (0.7149) indicates that there is strong correlation between mpg and other variables. 
-
+### Images(s)
+![](/images/mod15_deliv1.png)
 ## Summary Statistics on Suspension Coils (Deliverable 2)
 - Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
   - Lots 1 and 2 meet design specificiations and are more consistant across every measurable category. They both share an extremely similar mean and median. 
   - Lot 3 does not meet the design specifications according during the current manufacturing data as the data shows too much variance. 
+### Image(s)
+![](/images/deliv2.png)
 ## T-Tests on Suspension Coils
 ### Cumulative T-Test
 - Not statistically significant meaning we cannot reject the null. 
